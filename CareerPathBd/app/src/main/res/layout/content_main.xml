@@ -14,7 +14,7 @@
         android:textAlignment="center"
         android:layout_marginTop="50dp"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-        android:text="Welcome to Career Path Bd"
+        android:text="Welcome to Career Path Babgladesh"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
