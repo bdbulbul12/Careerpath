@@ -151,7 +151,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginTop="30dp"
-                    android:text="চাকুরি খুঁজুন "
+                    android:text="চাকুরি খুঁজুন h "
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold"
